@@ -8,3 +8,4 @@
   <p>Server time: <%= new java.util.Date() %></p>
 </body>
 </html>
+<p>Webhook test</p>
