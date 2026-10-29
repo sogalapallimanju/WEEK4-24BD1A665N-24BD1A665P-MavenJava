@@ -5,7 +5,6 @@ Academic Year: 2026
 
 ### Authors and Contributors
 * S. MANJUNATH REDDY (24BD1A665N)
-* K. TANAY (24BD1A665P)
 
 ---
 
