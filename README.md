@@ -10,7 +10,7 @@ Academic Year: 2026
 
 ## Project Overview
 This repository contains the Maven Java SE Application (my-maven-project) developed during Week 4. It covers:
-- Standard Maven Directory Structure (src/main/java, src/test/java, target/).
+- Standard Maven Directory Structure (src/main/java, src/test/java,hg target/).
 - Java 17 Compilation via maven-compiler-plugin.
 - External Dependency Management using Google Gson 2.13.1.
 - Automated Unit Testing with JUnit 5.11.0 and Maven Surefire reporting.
